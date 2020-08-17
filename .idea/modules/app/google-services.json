@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581776220841",
+    "firebase_url": "https://appwhats-51dc7.firebaseio.com",
+    "project_id": "appwhats-51dc7",
+    "storage_bucket": "appwhats-51dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581776220841:android:750025c07c63d6b73cbfb8",
+        "android_client_info": {
+          "package_name": "ml.luiggi.appwhats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581776220841-5gb52gamihavmg3v9ik23bahob95dc6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.luiggi.appwhats",
+            "certificate_hash": "91a1be9537a5bf71578018d7350e8cc0c13c5216"
+          }
+        },
+        {
+          "client_id": "581776220841-4a8rkk6q1blbs7ts9irl2qnp7e34i7ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07KxqtTIlRw8-5qGGrSdTSZmTiL37bWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581776220841-4a8rkk6q1blbs7ts9irl2qnp7e34i7ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
